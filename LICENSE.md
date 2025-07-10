@@ -19,4 +19,4 @@ This software is provided **for educational and diagnostic purposes only**.
 
 > Commercial use, resale, or proprietary system integration is **strictly prohibited** without explicit written consent from Kelvin Bratton.
 
-To obtain a commercial license, contact: **kelvin@yourdomain.com**
+To obtain a commercial license, contact: **txmacrofund@gmail.com**
