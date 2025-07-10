@@ -1,6 +1,6 @@
 # LICENSE – NonCommercial Use Only
 
-© 2024 Kelvin Bratton. All rights reserved.
+© 2025 Kelvin Bratton. All rights reserved.
 
 This project is released under a dual license model:
 
